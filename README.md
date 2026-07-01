@@ -1,4 +1,4 @@
-# HFT Toy Model
+# Market making lab
 
 This repository contains a number of research-oriented toy models for exploring market making and probabilistic forecasting in market environments.
 
